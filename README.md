@@ -2,8 +2,9 @@
 
 ## Author
 Kanishk Jha  
-2K21/CO/219  
-Email: kanishkjha_co21a4_45@dtu.ac.in  
+Roll No.: 2K21/CO/219  
+Email: kanishkjha_co21a4_45@dtu.ac.in
+[LinkedIn](https://www.linkedin.com/in/jha02--kanishk/)
 
 ### Problem Statement
 The application addresses the challenge of extracting meaningful insights from PDF documents, which are often difficult to query directly. By converting the document's text into embeddings and using a large language model, users can ask context-aware questions and receive precise answers. The solution also supports efficient handling of large documents by splitting them into manageable chunks, ensuring a seamless and responsive experience.
