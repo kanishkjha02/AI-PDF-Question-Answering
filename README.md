@@ -2,7 +2,7 @@
 
 ## Author
 Kanishk Jha  
-2K21/CO/219  
+Roll No.: 2K21/CO/219  
 Email: kanishkjha_co21a4_45@dtu.ac.in  
 
 ## Project Description
@@ -16,7 +16,6 @@ The application addresses the challenge of extracting meaningful insights from P
 - Embedding generation for semantic understanding.
 - Context-aware question-answering using an LLM.
 - Scalable and efficient handling of large PDFs.
-- Bonus features like cross-document querying and answer highlighting in the original PDF.
 
 ## Hardware Dependencies
 - **NVIDIA L4 GPU**: x 1
@@ -26,7 +25,6 @@ The application addresses the challenge of extracting meaningful insights from P
 To install the required dependencies, use the provided `requirements.txt` file. The following bash script can be used to install them:
 
 ```bash
-#!/bin/bash
 # Script to install required dependencies
 pip install -r requirements.txt
 ```
@@ -38,9 +36,8 @@ To run the application, follow these steps:
 2. Use the following bash script to execute the test script (`test1.py`):
 
 ```bash
-#!/bin/bash
 # Script to run the application locally
-python3 test1.py
+$ streamlit run streamlit_app.py
 ```
 
 ## Demonstration Videos
